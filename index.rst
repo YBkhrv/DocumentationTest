@@ -26,7 +26,7 @@ functions:
 https://docutils.sourceforge.io/docs/user/rst/quickstart.html
 
 
-**Instructions on how to use the bundle "sphinx-doc-reStructuredTex markup language" in Instruction.docx at the address :** https://github.com/YBkhrv/Documentation ССЫЛКУ ПОПРАВИТЬ!
+**Instructions on how to use the bundle "sphinx-doc-reStructuredTex markup language" in Instruction.docx at the address :** https://github.com/YBkhrv/DocumentationTest
 or the same thing, but in a video format:
 
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html 
