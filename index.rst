@@ -5,7 +5,7 @@ Sphinx-doc Build system-reStructuredText markup language
 Sphinx
 ---------
  
--This is a documentation generator that converts files in the reStructuredText format and other formats.
+This is a documentation generator that converts files in the reStructuredText format and other formats.
 
 **Project Repository**:https://github.com/sphinx-doc/sphinx
 
@@ -13,9 +13,9 @@ Sphinx
 
 reStructuredText(:ReST, file extension:.rst)
 --------------------------------------------------------
--It is a lightweight markup language that can be converted to HTML, ePub, PDF and others..
+It is a lightweight markup language that can be converted to HTML, ePub, PDF and others..
 
-Documents with ReST markup can be created in any ordinary text editor, but there are a number of ReST editors with convenient
+Documents with ReST markup can be created in any ordinary text editor, but there are a number of ReST editors with convenient 
 functions:
  
 * http://planet42.github.io/Laika/
@@ -27,7 +27,7 @@ https://docutils.sourceforge.io/docs/user/rst/quickstart.html
 
 
 **Instructions on how to use the bundle "sphinx-doc-reStructuredTex markup language" in Instruction.docx at the address :** https://github.com/YBkhrv/DocumentationTest
-or the same thing, but in a video format:
+or  in a video format:
 
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html 
 
